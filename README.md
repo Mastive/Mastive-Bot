@@ -14,5 +14,11 @@
   <img src="https://discordbots.org/api/widget/613498706133647362.svg" alt="Mastive" />
 </a>
 <a href="https://top.gg/bot/613498706133647362" >
+  <img src="https://top.gg/api/widget/servers/613498706133647362.svg?noavatar=true" alt="Mastive" />
+</a>
+<a href="https://top.gg/bot/613498706133647362" >
+  <img src="https://top.gg/api/widget/upvotes/613498706133647362.svg?noavatar=true" alt="Mastive" />
+</a>
+<a href="https://top.gg/bot/613498706133647362" >
   <img src="https://top.gg/api/widget/status/613498706133647362.svg?noavatar=true" alt="Mastive" />
 </a>
